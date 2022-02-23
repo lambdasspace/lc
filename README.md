@@ -10,3 +10,4 @@ Manuel Soto Romero
 | Tema                                                     | Material                                        |
 | :------------------------------------------------------- | :-------                                        |
 | 1. Introducción a Haskell                                | [Ejercicios](laboratorio01/Ejercicios01.hs)     |
+| 2. Estructuras de datos                                  | [Ejercicios](laboratorio02/Ejercicios02.hs)     |
