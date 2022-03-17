@@ -13,3 +13,4 @@ Manuel Soto Romero
 | 2. Estructuras de datos                                  | [Ejercicios](laboratorio02/Ejercicios02.hs)     |
 | 3. Definición de tipos de datos                          | [Ejercicios](laboratorio03/Ejercicios03.hs)     |
 | 4. Sintaxis de la Lógica Proposicional                   | [Ejercicios](laboratorio04)                     |
+| 5. Semántica de la Lógica Proposicional                  | [Ejercicios](laboratorio05)                     |
