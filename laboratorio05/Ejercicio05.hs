@@ -1,5 +1,5 @@
 module Ejercicio05 where
-
+-- NOMBRE
 import Prop
 
 -- Variables
